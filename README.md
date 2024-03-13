@@ -18,5 +18,5 @@ This is my repository for **STATS 220**.
    
 **Anyways**, here's a link to [google](https://www.google.com/)
 
-## github home page
+## GitHub home page
 If you found yourself too deep in the github rabit hole 🕳️, use [this](https://github.com/) to come back to the homepage 🏠.
